@@ -6,7 +6,7 @@ url = "https://soundcloud.com/user-210816084-450778884/travis-scott-ft-swae-lee-
 
 ```
 ## code:
-```
+```py
 from seleniumwire import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
